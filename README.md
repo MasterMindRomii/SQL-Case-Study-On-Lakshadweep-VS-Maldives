@@ -47,6 +47,7 @@ This repository contains SQL scripts and data pertaining to a case study compari
 ## Sample Data
 
 Sample data has been inserted into the tables to facilitate analysis and testing of SQL queries.
+Link- https://nitish2162001.github.io/Websitep/case4.html
 
 ## Questions
 
